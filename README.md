@@ -1,2 +1,2 @@
 # Python-Mini-Project---Word-Ladders-Games
-Word ladder.
+Words ladder.
